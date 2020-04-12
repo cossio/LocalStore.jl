@@ -8,6 +8,8 @@ Example:
 using LocalStore
 
 # Define an item descriptor
+# This should contain enough information to be able to
+# construct the desired object.
 struct A <: LocalStore.AbstractItem
   x::Int
 end
