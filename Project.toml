@@ -3,5 +3,8 @@ uuid = "7673ebd9-f02d-46dd-b879-08aafde2f01b"
 authors = ["Jorge Fernandez-de-Cossio-Diaz <j.cossio.diaz@gmail.com>"]
 version = "0.1.0"
 
+[compat]
+julia = "1.4"
+
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
