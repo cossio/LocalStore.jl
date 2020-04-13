@@ -1,6 +1,6 @@
 using Test, LocalStore
 
-struct A <: LocalStore.AbstractItem
+struct A
   x::Int
 end
 
