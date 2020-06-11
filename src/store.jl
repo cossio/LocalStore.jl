@@ -29,7 +29,7 @@ Returns path to directory containing `obj`.
 """
 function save(obj)
 	if !issaved(obj)
-		@info "Storing $obj"
+		@info "Storing $obj into $(itemdir(obj))"
 		mkpath(itemdir(obj))
 		save(obj, itemdir(obj))
 		#verify(obj)
