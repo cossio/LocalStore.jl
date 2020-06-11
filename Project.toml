@@ -1,7 +1,7 @@
 name = "LocalStore"
 uuid = "7673ebd9-f02d-46dd-b879-08aafde2f01b"
 authors = ["Jorge Fernandez-de-Cossio-Diaz <j.cossio.diaz@gmail.com>"]
-version = "0.1.0"
+version = "0.1.1"
 
 [compat]
 julia = "1.4"
