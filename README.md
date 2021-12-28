@@ -1,4 +1,7 @@
-# LocalStore.jl
+# LocalStore Julia package
+
+![](https://github.com/cossio/LocalStore.jl/workflows/CI/badge.svg)
+[![codecov](https://codecov.io/gh/cossio/LocalStore.jl/branch/master/graph/badge.svg?token=3W1LLTIJIO)](https://codecov.io/gh/cossio/LocalStore.jl)
 
 This package provides a simple interface for storing and retrieving Julia objects locally.
 
